@@ -1,7 +1,10 @@
-# my_assistance
+# AI Assistant
 
-A new Flutter project.
+This is a AI Assistant project using Flutter.
 
+
+<img src="screenshot/Screenshot_6.png" width=200, height=400> <img src="screenshot/Screenshot_8.png" width=200, height=400>
+<img src="screenshot/Screenshot_9.png" width=200, height=400><img src="screenshot/Screenshot_10.png" width=200, height=400><img src="screenshot/GScreenshot_11.png" width=200, height=400>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
